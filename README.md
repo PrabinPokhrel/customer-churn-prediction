@@ -39,19 +39,19 @@ Model performance was evaluated using:
 Shows overall churn patterns and KPIs.
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Page1.png)
+![Dashboard](Screenshots/Page1/Page 1.png)
 
 ### 2. High Risk Customers
 Identifies customers with high churn probability.
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Page2.png)
+![Dashboard](Screenshots/Page2/Page 2.png)
 
 ### 3. Retention Strategy
 Highlights churn drivers and recommended actions.
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Page3.png)
+![Dashboard](Screenshots/Page3/Page 3.png)
 
 ---
 
